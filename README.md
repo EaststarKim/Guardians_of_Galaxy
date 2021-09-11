@@ -2,6 +2,7 @@
 - [2016 Spring] GSHS 정보과학프로젝트1 Final Project
 - KOI contest 2016 bronze prize
 - Brick Breaker-themed game
+- Images from http://planetpixelemporium.com/index.php
 
 ## Game screen
 ### Title
