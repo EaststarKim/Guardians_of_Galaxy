@@ -6,11 +6,11 @@
 
 ## Game screen
 ### Title
-![title](title.png)
+![title](images/title.png)
 
 ### Stage 1 & Play
-![stage1](stage1.png)
-![play](play.png)
+![stage1](images/stage1.png)
+![play](images/play.png)
 
 ### Next stages
-![stages](stages.png)
+![stages](images/stages.png)
